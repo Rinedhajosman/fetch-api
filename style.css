@@ -1,0 +1,40 @@
+*{
+    margin: 4px; 
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+   
+.card{
+    background-color: rgb(185, 217, 245);
+    width: 400px;
+    height: auto;
+    float:left;
+    position: relative;
+    right: 13px;
+    margin-top: 10px;
+    border-radius: 5%;
+    
+}
+h4{
+    display: inline;
+    margin: 0;
+    
+}
+
+
+.card ul li{
+    padding: 10px;
+    margin-left: 14px;
+    line-height: 0;
+  
+}
+.name{
+    text-align: left;
+    margin-left: 42px;
+    color: #6c6cfd;
+    font-size: 1.5rem;
+    padding: 3px;
+}
+
+    
+
